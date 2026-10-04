@@ -1,0 +1,10 @@
+{
+    "Destinatario": "destino@exemplo.com",
+    "Host": "smtp.gmail.com",
+    "Porta": 587,
+    "Usuario": "usuario@gmail.com",
+    "Senha": "sua-senha-de-app",
+    "Remetente": "remetente@gmail.com",
+    "Token": "seu-token-da-api",
+    "IntervaloSegundos": 60
+}
