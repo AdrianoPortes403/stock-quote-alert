@@ -1,3 +1,0 @@
-/home/adriano/my_projects/stock-alert/bin/Release/net10.0/win-x64/publish/stock-quote-alert.pdb
-/home/adriano/my_projects/stock-alert/bin/Release/net10.0/win-x64/publish/template.json
-/home/adriano/my_projects/stock-alert/bin/Release/net10.0/win-x64/publish/stock-quote-alert.exe
